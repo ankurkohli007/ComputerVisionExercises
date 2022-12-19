@@ -6,7 +6,7 @@ The folder **Lab-02** focused on the methods to add different types of noise, fi
 
 The folder **Lab-05** focuses on Normalized cross-correlation and Harris corner detection. The NCC focuses on keypoints or corners of the image. Harris corner detection focuses on the corner, edge and plane detection.
 
-For ***Lab-02***, **Image filtering and Fourier Transform** below are requirements to fulfill the motive of the exercise:
+For ***Lab-02***, **Image filtering and Fourier Transform** below are *requirements* to fulfill the motive of the exercise:
 
 * Add Gaussian (standard deviation=20) and salt & pepper (density=20%) noise to the provided images:
       <ul>
@@ -31,6 +31,15 @@ For ***Lab-02***, **Image filtering and Fourier Transform** below are requiremen
       <li> display the magnitude of the transformed sharpening filter, slide 44 (the filter has a spatial support of 7x7 pixels, copy it in the middle of a zeros image of 101x101 pixels).</li>
       </ul>
 
+For ***Lab-05***, below are *requirements* to fulfill the motive of the exercise:
 
+### NCC-based segmentation
+
+* Select a window around the red car on the street (in the gray scale image “ur_c_s_03a_01_L_0376.png”) and apply the NCC (normalized cross correlation, normxcorr2), in order to find the template in all the 6 images given during exercise. Show the template. Show the position of the maximum of the score map and a box corresponding to the size of the template for all the 6 images
+(as in Fig.1). Do the same for the dark car that turns on the left.
+* Compare the results of this Lab with the ones of Lab4 (color-based segmentation).
+* Consider three different sizes of the window (centered around the dark car that turns on the left): discussing the results in terms of computation time and accuracy of detection.
+
+![alt text](image1)
 
 
