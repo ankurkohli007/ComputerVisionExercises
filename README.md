@@ -40,6 +40,6 @@ For ***Lab-05***, below are *requirements* to fulfill the motive of the exercise
 * Compare the results of this Lab with the ones of Lab4 (color-based segmentation).
 * Consider three different sizes of the window (centered around the dark car that turns on the left): discussing the results in terms of computation time and accuracy of detection.
 
-![alt text](image1)
+![alt text](image1.png)
 
 
