@@ -13,21 +13,23 @@ For ***Lab-02***, **Image filtering and Fourier Transform** below are requiremen
       <li>display the images, the noisy images, and their histograms.</li>
       </ul>
 * Remove the noise by using a moving average, a low-pass Gaussian filter and a median filter:
-<ul>
-<li> use two different spatial supports: 3x3 pixels and 7x7 pixels; <li>
-<li> display the filters by using imagesc() and surf(); <li>
-<li> display the resulting images and their histograms. <li>
-</ul>
+      <ul>
+      <li> use two different spatial supports: 3x3 pixels and 7x7 pixels; </li>
+      <li> display the filters by using imagesc() and surf(); </li>
+      <li> display the resulting images and their histograms. </li>
+      </ul>
 * Implement the slides 41-45 “practice with linear filters”:
-<li> use filters with a spatial support of 7x7 pixels.<li>
-<li> display the filters by using imagesc() and surf();<li>
-<li> display the resulting images.<li>
-4. Apply the Fourier Transform (FFT) on the provided images:
-o display the magnitude (log) of the transformed images;
-o display the magnitude of the transformed low-pass Gaussian filter (spatial support of
-101x101 pixels with sigma=5);
-o display the magnitude of the transformed sharpening filter, slide 44 (the filter has a
-spatial support of 7x7 pixels, copy it in the middle of a zeros image of 101x101 pixels).
+      <ul>
+      <li> use filters with a spatial support of 7x7 pixels.</li>
+      <li> display the filters by using imagesc() and surf();</li>
+      <li> display the resulting images.</li>
+      </ul>
+* Apply the Fourier Transform (FFT) on the provided images:
+       <ul>
+      <li> display the magnitude (log) of the transformed images;</li>
+      <li> display the magnitude of the transformed low-pass Gaussian filter (spatial support of 101x101 pixels with sigma=5);</li>
+      <li> display the magnitude of the transformed sharpening filter, slide 44 (the filter has a spatial support of 7x7 pixels, copy it in the middle of a zeros image of 101x101 pixels).</li>
+      </ul>
 
 
 
