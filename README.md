@@ -47,4 +47,12 @@ For ***Lab-05***, below are *requirements* to fulfill the motive of the exercise
 
 ![alt text](image2.png)
 
+# Results
+
+For *Lab-02*, [click here](KOHLI_lab02/VATS_KOHLI_LAB02_REPORT.pdf) to reviwe the complete result of this exercise in the report.
+
+For *Lab-05*, [click here](KOHLI_Lab05/Report_Kohli_Vats_lab05.pdf) to reviwe the complete result of this exercise in the report.
+
+
+
 
