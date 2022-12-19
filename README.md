@@ -9,9 +9,9 @@ The folder **Lab-05** focuses on Normalized cross-correlation and Harris corner 
 For ***Lab-02***, **Image filtering and Fourier Transform** below are requirements to fulfill the motive of the exercise:
 
 * Add Gaussian (standard deviation=20) and salt & pepper (density=20%) noise to the provided images:
-<ul>
-<li>display the images, the noisy images, and their histograms.</li>
-</ul>
+      <ul>
+      <li>display the images, the noisy images, and their histograms.</li>
+      </ul>
 * Remove the noise by using a moving average, a low-pass Gaussian filter and a median filter:
 <ul>
 <li> use two different spatial supports: 3x3 pixels and 7x7 pixels; <li>
