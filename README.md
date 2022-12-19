@@ -10,7 +10,7 @@ For ***Lab-02***, **Image filtering and Fourier Transform** below are requiremen
 
 * Add Gaussian (standard deviation=20) and salt & pepper (density=20%) noise to the provided images:
 <ul>
-<li>display the images, the noisy images, and their histograms.
+<li>display the images, the noisy images, and their histograms.</li>
 </ul>
 * Remove the noise by using a moving average, a low-pass Gaussian filter and a median filter:
 <ul>
