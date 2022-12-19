@@ -35,11 +35,16 @@ For ***Lab-05***, below are *requirements* to fulfill the motive of the exercise
 
 ### NCC-based segmentation
 
-* Select a window around the red car on the street (in the gray scale image “ur_c_s_03a_01_L_0376.png”) and apply the NCC (normalized cross correlation, normxcorr2), in order to find the template in all the 6 images given during exercise. Show the template. Show the position of the maximum of the score map and a box corresponding to the size of the template for all the 6 images
-(as in Fig.1). Do the same for the dark car that turns on the left.
+* Selecting a window around the red car on the street (in the gray scale image “ur_c_s_03a_01_L_0376.png”) and apply the NCC (normalized cross correlation, normxcorr2), in order to find the template in all the 6 images given during exercise. Showing the template. Showing the position of the maximum of the score map and a box corresponding to the size of the template for all the 6 images (as in Fig.1). Doing the same for the dark car that turns on the left.
 * Compare the results of this Lab with the ones of Lab4 (color-based segmentation).
 * Consider three different sizes of the window (centered around the dark car that turns on the left): discussing the results in terms of computation time and accuracy of detection.
 
 ![alt text](image1.png)
+
+### Harris corner detection
+
+* Implementing the Harris corner detector. Applying the developed corner detector on the “image i235.png”. Showing the partial derivatives of the image and the Gaussian filter. Showing the R score map and the corner regions. Showing the detected corners overlapped to the image (see Fig.2). 
+
+![alt text](image2.png)
 
 
