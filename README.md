@@ -48,7 +48,7 @@ For ***Lab-05***, below are *requirements* to fulfill the motive of the exercise
 * Implementing the Harris corner detector. Applying the developed corner detector on the “image i235.png”. Showing the partial derivatives of the image and the Gaussian filter. Showing the R score map and the corner regions. Showing the detected corners overlapped to the image (see Fig.2). 
 
 <p align="center">
-  <img width="960" height="400" src="https://github.com/ankurkohli007/ComputerVisionExercises/blob/cf17bcb55aaf072ccd8c803633fb4105e4ceed69/image2.png">
+  <img width="660" height="400" src="https://github.com/ankurkohli007/ComputerVisionExercises/blob/cf17bcb55aaf072ccd8c803633fb4105e4ceed69/image2.png">
 </p>
 
 # Results
