@@ -40,14 +40,16 @@ For ***Lab-05***, below are *requirements* to fulfill the motive of the exercise
 * Consider three different sizes of the window (centered around the dark car that turns on the left): discussing the results in terms of computation time and accuracy of detection.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ankurkohli007/ComputerVisionExercises/blob/cf17bcb55aaf072ccd8c803633fb4105e4ceed69/image2.png">
+  <img width="560" height="400" src="https://github.com/ankurkohli007/ComputerVisionExercises/blob/35dcf7a860d1f49e0fee72e0b3c5aafb00de3852/image1.png">
 </p>
 
 ### Harris corner detection
 
 * Implementing the Harris corner detector. Applying the developed corner detector on the “image i235.png”. Showing the partial derivatives of the image and the Gaussian filter. Showing the R score map and the corner regions. Showing the detected corners overlapped to the image (see Fig.2). 
 
-![alt text](image2.png)
+<p align="center">
+  <img width="560" height="400" src="https://github.com/ankurkohli007/ComputerVisionExercises/blob/cf17bcb55aaf072ccd8c803633fb4105e4ceed69/image2.png">
+</p>
 
 # Results
 
