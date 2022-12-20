@@ -40,7 +40,7 @@ For ***Lab-05***, below are *requirements* to fulfill the motive of the exercise
 * Consider three different sizes of the window (centered around the dark car that turns on the left): discussing the results in terms of computation time and accuracy of detection.
 
 <p align="center">
-  <img width="560" height="400" src="https://github.com/ankurkohli007/ComputerVisionExercises/blob/35dcf7a860d1f49e0fee72e0b3c5aafb00de3852/image1.png">
+  <img width="660" height="600" src="https://github.com/ankurkohli007/ComputerVisionExercises/blob/35dcf7a860d1f49e0fee72e0b3c5aafb00de3852/image1.png">
 </p>
 
 ### Harris corner detection
